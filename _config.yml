@@ -1,0 +1,12 @@
+# Site settings
+title: Cole Jurden
+email: colejurden@gmail.com
+description: My projects and wandering thoughts
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com" # the base hostname & protocol for your site ##need to figure out whats going on here and line above
+twitter_username: jurdinho
+github_username: cjurden
+
+# Build settings
+markdown: kramdown
+highlights: pygments
